@@ -19,10 +19,6 @@ public class Token {
 		this.creation_dt = formatDateTime;
 	}
 	
-	public Token() {
-		
-	}
-	
 	public String getToken() {
 		return token;
 	}
